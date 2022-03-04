@@ -1,6 +1,6 @@
 * {
   font-family: 'Muthiara -Demo version-';
-    font-size: 50px;
+    font-size: 30px;
   }
 @font-face {
   font-family: Muthiara -Demo version-;
@@ -33,10 +33,10 @@
   }
   
   button {
-    background-color: rgb(216, 0, 0);
+    background-color: rgb(13, 226, 241);
     border-radius: 5px;
     border: 0px;
-    color: white;
+    color: rgb(0, 0, 0);
     cursor: pointer;
     margin-right: 5px;
     margin-left: 5px;

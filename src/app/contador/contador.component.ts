@@ -10,12 +10,12 @@ template: `
 
 <span>{{ numero }}</span>
 
-<button (click)="acumular(base)"> - {{ base }} </button>
+<button (click)="acumular(-base)"> - {{ base }} </button>
 `
 }) 
 
 export class ContadorComponent {
-    titulo: string = 'Sebas';
+    titulo: string = 'Contador D Nathy';
     numero: number = 10;
     base: number = 5;
   acumular ( valor: number ) {
